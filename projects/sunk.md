@@ -1,6 +1,6 @@
 ---
-thumbnail: "/uploads/cody-davis-253925-unsplash.jpg"
-title: Pineapple
+thumbnail: "/uploads/fh000028.JPG"
+title: Street
 date: 2019-02-06
 categories:
 - photography
