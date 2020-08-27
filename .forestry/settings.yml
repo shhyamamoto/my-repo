@@ -12,15 +12,12 @@ sections:
   templates:
   - project
 - type: directory
-  path: journal
-  label: Journal
+  path: blog
+  label: Blog
   create: documents
   match: "**/*.md"
   templates:
   - journal
-- type: document
-  path: data/theme.json
-  label: Theme config
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
