@@ -1,6 +1,6 @@
 ---
-thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
-title: Porta400
+thumbnail: "/uploads/chy_edited_5.jpg"
+title: Portrait
 date: 2019-01-03
 categories:
 - photography
