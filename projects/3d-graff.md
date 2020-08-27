@@ -1,6 +1,6 @@
 ---
-thumbnail: "/uploads/ian-dooley-281897-unsplash.jpg"
-title: Ice Cream
+thumbnail: "/uploads/takeout750x500.jpg"
+title: Still Life
 date: 2019-01-04
 categories:
 - photography
